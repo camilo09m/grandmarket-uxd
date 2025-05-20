@@ -1,4 +1,5 @@
-# grandmarket-UXD
+# GrandMarket-UXD
+User experience design process for GrandMarket - 
 ## Index
 - [Description](#description)
 - [Strategy](#strategy)
@@ -6,5 +7,18 @@
 - [Structure](#structure)
 - [Skeleton](#skeleton)
 - [Surface](#surface)
-- [Usability and accessibility](#usability-and-accessibility) (NEW)
-- [Authors and acknowledgment](#authors-and-acknowledgment)
+
+---
+## Description
+
+## Strategy
+
+## Scope
+
+## Structure
+
+## Skeleton
+
+## Surface
+
+
