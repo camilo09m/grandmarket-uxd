@@ -46,12 +46,12 @@ easy payment methods.
 In addition, the proposal seeks to generate a feeling of progressive trust in the user, thanks to a user-friendly and transparent interface that clearly details crucial data 
 such as total cost and shipping times. This approach fosters user self-fulfillment by allowing them to autonomously complete a task that may initially seem complex, thus 
 achieving a sense of self-improvement.
-Las ganancias esperadas incluyen un ahorro tangible de tiempo y esfuerzo durante la compra, autonomía para realizar pedidos sin depender de ayuda externa, y una experiencia 
-fluida y sencilla que evita interrupciones o bloqueos en el proceso. La claridad en los precios y la transparencia en los tiempos de entrega contribuyen a una satisfacción 
-emocional que fortalece la confianza en la aplicación.
-Finalmente, los trabajos que el usuario desea realizar están claramente identificados: agregar, eliminar o modificar productos en el carrito, consultar el estado y 
-tiempos de entrega de sus pedidos, y buscar productos de forma rápida y sencilla. Todo ello orientado a que pueda comprender y beneficiarse de un mundo digital que para 
-ellos es relativamente nuevo, sin sentirse abrumados ni inseguros.
+Expected gains include tangible savings in time and effort during the purchase, autonomy to place orders without relying on external help, and a smooth and easy 
+experience that avoids interruptions or blockages in the process. Clear pricing and transparent delivery times contribute to an emotional 
+satisfaction that strengthens trust in the application.
+Finally, the tasks that the user wants to perform are clearly identified: add, delete or modify products in the cart, check the status and 
+delivery times of their orders, and search for products quickly and easily. All this oriented to help them understand and benefit from a digital world that for 
+is relatively new, without feeling overwhelmed or insecure.
 
 ---
 
