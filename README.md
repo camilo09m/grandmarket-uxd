@@ -18,8 +18,8 @@ comprehension and the payment process, whether online or in person. Emphasis is 
 ---
 ## Team
 - [Jesús Acevedo](https://github.com/jesus-acev) - Project Manager
-- [José Huircaleo]() - Analyst
-- [Esteban Saez]() - Designer
+- [José Huircaleo](https://github.com/Huircas) - Analyst
+- [Esteban Saez](https://github.com/estebansaez) - Designer
 - [Marcelo Henríquez](https://github.com/mh0316) - Exhibitor
 - [Camilo Ñanco](https://github.com/camilo09m) - Support
 
@@ -96,6 +96,8 @@ superfluous steps, and ensure visual and functional coherence. This approach ena
 ---
 
 ## Skeleton
+Wireframes
+- [Full document here](Files/Wireframes-GrandMarket.pdf)
 
 
 ---
