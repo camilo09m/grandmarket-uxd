@@ -106,3 +106,29 @@ Mockups
 - [Full document here](Mockups.pdf)
 
 ---
+## Heuristic Evaluation Results:
+
+The issues raised by our teammates were addressed, especially those with higher severity, following the proposed solution suggestions.
+
+1. Problem: Lack of a color palette:
+A predefined color palette was implemented for all app frames, improving the visual presentation of elements.
+
+2. Problem: Inconsistencies in button presentation:
+A consistent format for buttons (colors, sizes, and shapes) was established, maintaining the app’s style across all frames, which significantly improves accessibility and visualization.
+
+3. Problem: Poor organization in information layout:
+Visual hierarchy was applied to highlight important elements, related items were grouped, and consistent labels and elements are now used throughout the app’s interface.
+
+4. Problem: Poor logic in product presentation:
+This was resolved by detailing the contents of each basket and specifying the quantity of each product.
+
+5. Problem: Missing input elements:
+The app’s start flow was improved by adding a login frame that appears immediately after the welcome screen. Additionally, missing confirmation or navigation buttons in some frames were added.
+
+### Among other important and necessary changes and improvements were:
+
+- Changing the names of each text field, replacing the placeholder with an example and placing the field name above it.
+
+- Including a brief tutorial explaining the main components of the app.
+
+- Implementing auto layout in all frames and components, which had not been applied in the previous version.
